@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="background">#F5F5F5</color>
+    <color name="background_splash">#102060</color>
+    <color name="backText">#F4F4F4</color>
+    <color name="invisibleColor">#F2F2F2</color>
+    <color name="invisibleTextColor">#9F9F9F</color>
+    <color name="visibleTextColor">#FFFFFF</color>
+    <color name="visibleColor">#2FB209</color>
+    <color name="errorColor">#F2000E</color>
+    <color name="customKeyboardPressed">#F8F8F8</color>
+    <color name="dividerLine">#1A000000</color>
+    <color name="color_text">#80000000</color>
+    <color name="color_title">#000000</color>
+    <color name="checkbox_default">#D9D9D9</color>
+
+
+    <!--screenotp-->
+    <color name="visibleTextColorPrivacy">#2FB209</color>
+    <color name="otp_background">#DDDEE2</color>
+    <color name="background_otp_number_button">#FAFAFA</color>
+    <color name="background_otp_action_button">#EAEBEF</color>
+    <color name="text_field_unfocused_indicator">#F4F4F4</color>
+    <color name="text_field_focused_indicator">#2FB209</color>
+    <color name="text_field_background">#F4F4F4</color>
+    <color name="forgot_password">#2FB209</color>
+    <color name="red_text">#F2000E</color>
+
+
+    ////
+    <color name="button_disabled">#F2F2F2</color>
+    <color name="button_enabled">#2FB209</color>
+
+    <color name="text_light_gray">#9F9F9F</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_red">#E30510</color>
+    <color name="text_green">#2FB209</color>
+
+    <color name="checkbox_checked">#2FB209</color>
+
+    <color name="text_field_error_indicator">#E30510</color>
+
+    <!--Screen Language-->
+    <color name="color_language_divider">#E6E6E6</color>
+    <color name="color_language_buttons">#FFFFFF</color>
+
+    <!--Screen Login-->
+    <color name="color_login_text_input_default">#F4F4F4</color>
+    <color name="color_login_text_input_active">#FFFFFF</color>
+    <color name="color_login_button_register_default">#F2F2F2</color>
+    <color name="color_login_button_register_active">#2FB209</color>
+    <color name="color_login_button_register_text">#9F9F9F</color>
+
+    <!--Verification Login-->
+    <color name="color_verification_title">#000</color>
+    <color name="color_verification_code_sent">#80000000</color>
+    <color name="color_verification_button_accept_default">#F2F2F2</color>
+    <color name="color_verification_button_accept_active">#2FB209</color>
+    <color name="color_splash_background">#102060</color>
+    <color name="background_otp">#DDDEE2</color>
+    <color name="blackless">#8F8D8D</color>
+    <color name="placeholder_color">#CFCECE</color>
+    <color name="text_light_black">#777675</color>
+
+    //Apelsin
+    <color name="background_A">#EDEEF0</color>
+    <color name="back_text_a">#D1D2D3</color>
+    <color name="brentColor">#F28D14</color>
+    <color name="textColor">#F28D14</color>
+    <color name="buttonVisibleColor">#FBB05A</color>
+    <color name="textVisibleColor">#FF8B00</color>
+    <color name="buttonInVisibleColorApelsin">#F8C588</color>
+    <color name="textInVisibleColor">#FBB96B</color>
+    <color name="text_grey">#838181</color>
+    <color name="text_black">#141414</color>
+</resources>

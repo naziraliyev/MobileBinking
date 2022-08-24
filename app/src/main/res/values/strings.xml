@@ -1,0 +1,127 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">MobileBankingCompose</string>
+
+    <string name="russian">Русский</string>
+    <string name="uzbek">O\'zbekcha</string>
+    <string name="english">English</string>
+    <string name="lastName">Last Name</string>
+    <string name="firstName">First Name</string>
+    <string name="phoneNumber">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="send_again">Send again</string>
+    <string name="confirm">Confirm</string>
+
+    <string name="text_verification_sent_number">Code sent to\n%1$s</string>
+    <string name="text_verification_timer">Code send in\n%1$s</string>
+    <string name="registration">Registration</string>
+    <string name="enter_pin_code">Enter Pin Code</string>
+    <string name="enter_new_pin_code">Enter Pin Code</string>
+
+    <string name="text_policy_title">Privacy Policy</string>
+    <string name="text_accept">Accept</string>
+    <string name="text_policy_agreement">I agree to all terms.</string>
+    <string name="text_policy_subtitle">Service privacy policy</string>
+    <string name="text_policy_details">1. Introduction. This Privacy Policy describes the types of
+        "Personal Information" (information that is identifiable to a particular person) that is
+        collected (directly or through service providers) in connection with the mobile downloadable
+        application ("App") and related services (collectively, the "Service") offered by your
+        financial institution ("we" or "us"). This Privacy Policy is intended to supplement the
+        disclosures in any Privacy Policy that you may have already been presented by us in
+        connection with online banking or other services.
+        \n\n2.
+        Eligibility. The Service is offered only to individual residents of the United States,
+        excluding its territories, who can form legally binding contracts under applicable law.
+        Without limiting the foregoing, the Service is not offered to minors. Other restrictions
+        and eligibility requirements for the Service apply as described in the mobile application
+        Terms of Use. We do not knowingly collect any Personal Information from or about individuals
+        under 18 years of age. Please do not submit such information to us, and as a parent or
+        legal guardian, please do not allow your children to submit Personal Information without
+        your permission. By using the App or the Service, you represent that you meet these
+        requirements and that you agree to the terms of this Privacy Policy.
+        \n\n3.
+        What Types of Personal Information We May Collect. We may collect Personal Information
+        about you, which may include: name, postal address, zip code, e-mail address, telephone
+        number, account numbers, payment card expiration date, payment card identification or
+        verification numbers, social security number, mobile device location, and other information
+        that we can use to contact you, verify your identity, provide the functionality available
+        through use of the App and the Service, and manage risks, such as information maintained
+        about you by identity verification services and consumer reporting agencies, including
+        credit bureaus, and payment and other transaction information, and history for payments
+        and other transactions in which you participate through the Service, and any Personal
+        Information that you may enter into information blocks present in the App interface or
+        made available through the Service.\n\n4.
+        How We May Collect Personal Information About You. We may collect Personal Information
+        about you from the following sources:\n\na.
+        a. We may collect information regarding your mobile device such as device settings, unique
+        device identifiers, information about your location, and analytical information that may
+        assist with diagnostics and performance. For your convenience, you may be asked to grant
+        permission for access to your mobile devices geolocation data. This information may be
+        collected when you use certain services that are dependent on your mobile devices location
+        (such as the location of an ATM or in store transactions).  Information that you input to
+        the App or that the App collects automatically;\n\nb. Your use of the App and the Service,
+        and your interactions with customer care, including information you enter or speak,
+        and information transmitted by your computer or mobile device or other devices you use
+        as part of your receipt of the Service;\n\nc.
+        We may also collect Personal Information about you from others, such as Affiliates, or other
+        companies (such as for fraud detection).\n\n5.
+        How We May Share Personal Information About You. We share Personal Information about you
+        only as permitted by law.
+    </string>
+    <string name="prompt_info_use_app_password">FingerPrint Pasword</string>
+    <string name="enter">Enter</string>
+    <string name="phone_not_found">Phone not found</string>
+    <string name="password_not_found">wrong password</string>
+    <string name="forget_password">Forgot password!</string>
+    <string name="phone_content">To get a verification code, first confirm the recovery phone number</string>
+    <string name="send">Send</string>
+    <string name="signIn">Sign In</string>
+    <string name="change_password">Change Password</string>
+    <string name="new_password">New password</string>
+    <string name="confirm_passord">Confirm password</string>
+    <string name="password_not_equals">Passwors not equals</string>
+    <string name="erroMessage">Something  is wrong please try again</string>
+    <string name="token_is_wrong">Please try again</string>
+    <string name="text_skip">Skip</string>
+    <string name="text_ready">Ready</string>
+    <string name="text_pin_code_enter">Enter Pin Code</string>
+    <string name="error_pi_code">Wrong Code</string>
+
+    <string name="prompt_info_title">Title</string>
+    <string name="prompt_info_subtitle">Subtitle</string>
+    <string name="prompt_info_description">Description</string>
+    <string name="text_resend">Send again</string>
+    <string name="text_verification_error">Please try again!</string>
+    <string name="have_account">I have already account!</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="buttonText">Continue</string>
+    <string name="enter_phone_code">Enter code</string>
+    <string name="approve">Approve</string>
+    <string name="enter_code">Enter the code which we send you to the number\n%1$s</string>
+    <string name="send_again_in">Send again\n%1$s</string>
+    <string name="registraration_a">Registration</string>
+    <string name="create_password">Create password</string>
+    <string name="confirm_password_a">Confirm the password</string>
+
+    //pasword required
+    <string name="create_required">Create as required</string>
+    <string name="required_one">At least 8 or not more than 20 (required)</string>
+    <string name="required_two">At least one letter (required)</string>
+    <string name="required_three">At least one number (required)</string>
+    <string name="required_four">Typing cyr. characters prohibited (required)</string>
+    <string name="required_five">At least one capital letter</string>
+    <string name="required_six">At least one specific symbol</string>
+    <string name="data_agreement">Data Processing Agreement</string>
+    <string name="privacy_agreement">I fully agree with the terms of the User Agreement</string>
+    <string name="pin">PIN</string>
+    <string name="create_pin">Create a PIN</string>
+    <string name="repeat_pin">Repeat the PIN</string>
+    <string name="wrong_code">Code is not match</string>
+    <string name="transfer_card">Transfer to Card</string>
+    <string name="transfer_wallet">Transfer to Wallet</string>
+    <string name="transfer_account">Transfer to Account</string>
+    <string name="transfer_requisites">Tranfer to requisites</string>
+    <string name="transfer_fundraising">Fundraising</string>
+    <string name="transfer_rocket">Rocket</string>
+    <string name="transfer">Transfer</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Android Developer/AndroidStudioProjects/MobileBankingCompose/app/src/main/res/drawable/ic_back.xml" value="0.15" />
+        <entry key="..\:/Users/Android Developer/AndroidStudioProjects/MobileBankingCompose/app/src/main/res/drawable/ic_backspace.xml" value="0.15" />
+        <entry key="..\:/Users/Android Developer/AndroidStudioProjects/MobileBankingCompose/app/src/main/res/drawable/ic_check_checked.xml" value="0.1245" />
+        <entry key="..\:/Users/Android Developer/AndroidStudioProjects/MobileBankingCompose/app/src/main/res/drawable/ic_check_default.xml" value="0.1245" />
+        <entry key="..\:/Users/Android Developer/AndroidStudioProjects/MobileBankingCompose/app/src/main/res/drawable/ic_cicle_checked.xml" value="0.15" />
+        <entry key="..\:/Users/Android Developer/AndroidStudioProjects/MobileBankingCompose/app/src/main/res/drawable/ic_cicle_checked_a.xml" value="0.1255" />
+        <entry key="..\:/Users/Android Developer/AndroidStudioProjects/MobileBankingCompose/app/src/main/res/drawable/ic_cicrle_unpinned.xml" value="0.15" />
+        <entry key="..\:/Users/Android Developer/AndroidStudioProjects/MobileBankingCompose/app/src/main/res/drawable/ic_cicrle_unpinned_a.xml" value="0.1255" />
+        <entry key="..\:/Users/Android Developer/AndroidStudioProjects/MobileBankingCompose/app/src/main/res/drawable/ic_circle_checked.xml" value="0.1255" />
+        <entry key="..\:/Users/Android Developer/AndroidStudioProjects/MobileBankingCompose/app/src/main/res/drawable/ic_circle_pinned.xml" value="0.15" />
+        <entry key="..\:/Users/Android Developer/AndroidStudioProjects/MobileBankingCompose/app/src/main/res/drawable/ic_circle_pinned_a.xml" value="0.1255" />
+        <entry key="..\:/Users/Android Developer/AndroidStudioProjects/MobileBankingCompose/app/src/main/res/drawable/ic_circle_unchecked.xml" value="0.15" />
+        <entry key="..\:/Users/Android Developer/AndroidStudioProjects/MobileBankingCompose/app/src/main/res/drawable/ic_circle_unchecked_a.xml" value="0.1255" />
+        <entry key="..\:/Users/Android Developer/AndroidStudioProjects/MobileBankingCompose/app/src/main/res/drawable/ic_clear.xml" value="0.1335" />
+        <entry key="..\:/Users/Android Developer/AndroidStudioProjects/MobileBankingCompose/app/src/main/res/drawable/ic_gita_bank.xml" value="0.15" />
+        <entry key="..\:/Users/Android Developer/AndroidStudioProjects/MobileBankingCompose/app/src/main/res/drawable/ic_true.xml" value="0.1255" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
